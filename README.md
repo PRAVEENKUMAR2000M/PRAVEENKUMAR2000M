@@ -7,7 +7,7 @@ System Engineer @ Precision Infomatic Pvt Ltd
 - 👯 I’m looking to collaborate on MERN Stack
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/pravyn__marley/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/pravyn__marley/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/praveenkumar-m-9446a3194/)
 - 😄 Pronouns: Techie
 
 ### I code in
